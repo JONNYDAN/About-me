@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Tuấn</h1>
 <h3 align="center">A passionate software developer from Vietnam. Possesses strong business and data analytics skills. Always eager to learn and persistent.</h3>
 
+- 🔭 I’m currently working on [Administrative Office of the Faculty of Information Technology](https://maps.app.goo.gl/Cj6XLm52dBtLHS6z7)
+
+- 🌱 I’m currently learning **about data analysis tools, IT service management (ITSM), and maybe a bit of Python or R for automation — always expanding my tech and admin skill set.**
+
+- 👯 I'm looking for opportunities to collaborate in **solving business problems.**
+
+- 🤝 I’m looking for help with **connecting with professionals in tech education, IT administration, or business analytics — and learning best practices for digital workflow optimization.**
+
+- 💬 Ask me about **IT faculty operations, academic support systems, digital tools for administration, or bridging tech and education.**
+
+- 📫 How to reach me **tuannobi44@gmail.com**
+
+- ⚡ Fun fact **I once helped organize a 24-hour hackathon for IT students — chaos, creativity, and coffee included! ☕👨‍💻**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nguyen-van-tuan-4b4a76393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen-van-tuan-4b4a76393" height="30" width="40" /></a>
